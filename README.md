@@ -1,5 +1,6 @@
 # todo-app-react
-This project is the code introduced in the [article]().
+I made it for learning with reference to React Redux Basic Tutorial [A Todo List Example](https://react-redux.js.org/introduction/basic-tutorial).
+This project is the code introduced in the article.
 
 ## Available Scripts
 
